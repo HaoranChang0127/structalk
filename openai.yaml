@@ -1,0 +1,4 @@
+interface:
+  display_name: "StrucTalk｜有章"
+  short_description: "先列可调整的讨论目录，再逐项简短推进，保留编号和结论，按需用图解释"
+  default_prompt: "请用 $structalk 先列讨论目录，再一次讨论一个问题；调整结构时保留旧编号和已有结论。"
